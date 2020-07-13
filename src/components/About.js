@@ -27,7 +27,7 @@ const About=()=>{
                   <div className="col-lg-6">
                     <ul>
                       <li><i className="icofont-rounded-right"></i> <strong>Birthday:</strong> 30 july 1999</li>
-                      <li><i className="icofont-rounded-right"></i> <strong>Website:</strong> www.</li>
+                      <li><i className="icofont-rounded-right"></i> <strong>URL:</strong> jasanishubh123.github.io/MyPortfolio/</li>
                       <li><i className="icofont-rounded-right"></i> <strong>Phone:</strong> 8320600793</li>
                       <li><i className="icofont-rounded-right"></i> <strong>City:</strong>  Surat , Gujarat</li>
                     </ul>
