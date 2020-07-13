@@ -10,12 +10,13 @@ import Portfolio from './components/Portfolio';
 import Service from './components/Services';
 import Testinomials from './components/Testinomials';
 import Contact from './components/Contact';
+import 'react-toastify/dist/ReactToastify.css'
 
 import './App.css';
 
 
 function App() {
-
+  
   return (
     <>
      

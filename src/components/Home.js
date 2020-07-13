@@ -1,5 +1,5 @@
 import React from 'react';
-import Pdf from '../Shubham_Resume.PDF';
+
 
 
 

@@ -20,7 +20,7 @@ const About=()=>{
               <div className="col-lg-8 pt-4 pt-lg-0 content">
                 {/* <h3>UI/UX Designer &amp; Web Developer.</h3> */}
                 <h3>Fullstack Developer</h3>
-                <p className="font-italic" style={{fontSize:"18px;"}}>
+                <p className="font-italic">
                 I am always tried to complete my ambitions with my skills and hard working , positive attitude.
                 </p>
                 <div className="row">
@@ -35,7 +35,7 @@ const About=()=>{
                   <div className="col-lg-6">
                     <ul>
                       <li><i className="icofont-rounded-right"></i> <strong>Age:</strong> 22</li>
-                      <li><i className="icofont-rounded-right"></i> <strong>Degree:</strong> Master [Running]</li>
+                      <li><i className="icofont-rounded-right"></i> <strong>Degree:</strong>  B.Sc.IT , M.Sc.IT [Running]</li>
                       <li><i className="icofont-rounded-right"></i> <strong>PhEmailone:</strong> jasanishubh@gmail.com</li>
                       <li><i className="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                     </ul>
